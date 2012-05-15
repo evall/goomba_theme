@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+#data signal
+    <item name="drawable/stat_sys_data_fully_connected_1x">@drawable/stat_sys_data_fully_connected_1x</item>
+    <item name="drawable/stat_sys_data_fully_connected_3g">@drawable/stat_sys_data_fully_connected_3g</item>
+    <item name="drawable/stat_sys_data_fully_connected_e">@drawable/stat_sys_data_fully_connected_e</item>
+    <item name="drawable/stat_sys_data_fully_connected_g">@drawable/stat_sys_data_fully_connected_g</item>
+    <item name="drawable/stat_sys_data_fully_connected_h">@drawable/stat_sys_data_fully_connected_h</item>
+   # <item name="drawable/stat_sys_data_fully_in_1x">@drawable/stat_sys_data_fully_in_1x</item>
+ #   <item name="drawable/stat_sys_data_fully_in_3g">@drawable/stat_sys_data_fully_in_3g</item>
+   # <item name="drawable/stat_sys_data_fully_inandout_1x">@drawable/stat_sys_data_fully_inandout_1x</item>
+  #  <item name="drawable/stat_sys_data_fully_inandout_3g">@drawable/stat_sys_data_fully_inandout_3g</item>
+  #  <item name="drawable/stat_sys_data_fully_inandout_e">@drawable/stat_sys_data_fully_inandout_e</item>
+  #  <item name="drawable/stat_sys_data_fully_inandout_g">@drawable/stat_sys_data_fully_inandout_g</item>
+  #  <item name="drawable/stat_sys_data_fully_inandout_h">@drawable/stat_sys_data_fully_inandout_h</item>
+    #<item name="drawable/stat_sys_data_fully_in_e">@drawable/stat_sys_data_fully_in_e</item>
+   # <item name="drawable/stat_sys_data_fully_in_h">@drawable/stat_sys_data_fully_in_h</item>
+  #  <item name="drawable/stat_sys_data_fully_out_1x">@drawable/stat_sys_data_fully_out_1x</item>
+  #  <item name="drawable/stat_sys_data_fully_out_3g">@drawable/stat_sys_data_fully_out_3g</item>
+ #   <item name="drawable/stat_sys_data_fully_out_e">@drawable/stat_sys_data_fully_out_e</item>
+  #  <item name="drawable/stat_sys_data_fully_out_g">@drawable/stat_sys_data_fully_out_g</item>
+  #  <item name="drawable/stat_sys_data_fully_out_h">@drawable/stat_sys_data_fully_out_h</item>
+    <item name="drawable/stat_sys_data_connected_1x">@drawable/stat_sys_data_connected_1x</item>
+    <item name="drawable/stat_sys_data_connected_3g">@drawable/stat_sys_data_connected_3g</item>
+    <item name="drawable/stat_sys_data_connected_e">@drawable/stat_sys_data_connected_e</item>
+    <item name="drawable/stat_sys_data_connected_g">@drawable/stat_sys_data_connected_g</item>
+    <item name="drawable/stat_sys_data_connected_h">@drawable/stat_sys_data_connected_h</item>
+   # <item name="drawable/stat_sys_data_in_1x">@drawable/stat_sys_data_in_1x</item>
+  #  <item name="drawable/stat_sys_data_inandout_1x">@drawable/stat_sys_data_inandout_1x</item>
+   # <item name="drawable/stat_sys_data_inandout_3g">@drawable/stat_sys_data_inandout_3g</item>
+   # <item name="drawable/stat_sys_data_inandout_e">@drawable/stat_sys_data_inandout_e</item>
+   # <item name="drawable/stat_sys_data_inandout_g">@drawable/stat_sys_data_inandout_g</item>
+   # <item name="drawable/stat_sys_data_inandout_h">@drawable/stat_sys_data_inandout_h</item>
+   # <item name="drawable/stat_sys_data_in_e">@drawable/stat_sys_data_in_e</item>
+    #<item name="drawable/stat_sys_data_in_h">@drawable/stat_sys_data_in_h</item>
+    #<item name="drawable/stat_sys_data_out_1x">@drawable/stat_sys_data_out_1x</item>
+    #<item name="drawable/stat_sys_data_out_3g">@drawable/stat_sys_data_out_3g</item>
+    #<item name="drawable/stat_sys_data_out_e">@drawable/stat_sys_data_out_e</item>
+    #<item name="drawable/stat_sys_data_out_g">@drawable/stat_sys_data_out_g</item>
+    #<item name="drawable/stat_sys_data_out_h">@drawable/stat_sys_data_out_h</item>
+
+#wifi signal on status bar
+<item name="drawable/stat_sys_wifi_signal_0">@drawable/stat_sys_wifi_signal_0</item>
+    <item name="drawable/stat_sys_wifi_signal_1_fully">@drawable/stat_sys_wifi_signal_1</item>
+    <item name="drawable/stat_sys_wifi_signal_2_fully">@drawable/stat_sys_wifi_signal_2</item>
+    <item name="drawable/stat_sys_wifi_signal_3_fully">@drawable/stat_sys_wifi_signal_3</item>
+    <item name="drawable/stat_sys_wifi_signal_4_fully">@drawable/stat_sys_wifi_signal_4</item>
+    <item name="drawable/stat_sys_wifi_signal_1">@drawable/stat_sys_wifi_signal_1_fully</item>
+    <item name="drawable/stat_sys_wifi_signal_2">@drawable/stat_sys_wifi_signal_2_fully</item>
+    <item name="drawable/stat_sys_wifi_signal_3">@drawable/stat_sys_wifi_signal_3_fully</item>
+    <item name="drawable/stat_sys_wifi_signal_4">@drawable/stat_sys_wifi_signal_4_fully</item>
+
+##notification bar telephone signal
+<item name="drawable/stat_sys_signal_0_fully">@drawable/stat_sys_signal_0_fully</item>
+    <item name="drawable/stat_sys_signal_1_fully">@drawable/stat_sys_signal_1_fully</item>
+    <item name="drawable/stat_sys_signal_2_fully">@drawable/stat_sys_signal_2_fully</item>
+    <item name="drawable/stat_sys_signal_3_fully">@drawable/stat_sys_signal_3_fully</item>
+    <item name="drawable/stat_sys_signal_4_fully">@drawable/stat_sys_signal_4_fully</item>
+    <item name="drawable/stat_sys_signal_0">@drawable/stat_sys_signal_0</item>
+    <item name="drawable/stat_sys_signal_1">@drawable/stat_sys_signal_1</item>
+    <item name="drawable/stat_sys_signal_2">@drawable/stat_sys_signal_2</item>
+    <item name="drawable/stat_sys_signal_3">@drawable/stat_sys_signal_3</item>
+    <item name="drawable/stat_sys_signal_4">@drawable/stat_sys_signal_4</item>
+    <item name="drawable/stat_sys_signal_flightmode">@drawable/stat_sys_signal_flightmode</item>
+
+###other stuff
+<item name="drawable/battery_low_battery">@drawable/battery_low_battery</item>
+    <item name="drawable/btn_default_small_normal">@drawable/btn_default_small_normal</item>
+    <item name="drawable/btn_default_small_normal_disable">@drawable/btn_default_small_normal_disable</item>
+    <item name="drawable/btn_default_small_normal_disable_focused">@drawable/btn_default_small_normal_disable_focused</item>
+    <item name="drawable/btn_default_small_pressed">@drawable/btn_default_small_pressed</item>
+    <item name="drawable/btn_default_small_selected">@drawable/btn_default_small_selected</item>
+    <item name="drawable/stat_sys_gps_aquiring">@drawable/stat_sys_gps_aquiring</item>
+    <item name="drawable/stat_sys_ringer_vibrate">@drawable/stat_sys_ringer_vibrate</item>
+    <item name="drawable/stat_sys_ringer_silent">@drawable/stat_sys_ringer_silent</item>
+    <item name="drawable/stat_sys_data_bluetooth">@drawable/stat_sys_data_bluetooth</item>
+    <item name="drawable/stat_sys_data_bluetooth_connected">@drawable/stat_sys_data_bluetooth_connected</item>
+    <item name="drawable/statusbar_background">@drawable/statusbar_background</item>
+    <item name="drawable/status_bar_close_on">@drawable/status_bar_close_on</item>
+    <item name="drawable/shade_bg">@drawable/shade_bg</item>
+    <item name="drawable/shade_header_background">@drawable/shade_header_background</item>
+    s
+    <item name="drawable/stat_sys_r_signal_1_fully">@drawable/stat_sys_r_signal_1_fully</item>
+    <item name="drawable/stat_sys_r_signal_2_fully">@drawable/stat_sys_r_signal_2_fully</item>
+    <item name="drawable/stat_sys_r_signal_3_fully">@drawable/stat_sys_r_signal_3_fully</item>
+    <item name="drawable/stat_sys_r_signal_4_fully">@drawable/stat_sys_r_signal_4_fully</item>
+    
+<item name="drawable/title_bar_portrait">@drawable/title_bar_portrait</item>
+</resource-redirections>

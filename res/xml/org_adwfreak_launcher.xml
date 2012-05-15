@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ This is for adw ex
+ -->
+
+<resource-redirections>
+   
+    <item name="drawable/dockbar_bg">@drawable/dockbar_bg</item>
+    
+</resource-redirections>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ # Copyright (C) 2010, T-Mobile USA, Inc.
+ #
+ # Licensed under the Apache License, Version 2.0 (the "License");
+ # you may not use this file except in compliance with the License.
+ # You may obtain a copy of the License at
+ #
+ #      http://www.apache.org/licenses/LICENSE-2.0
+ #
+ # Unless required by applicable law or agreed to in writing, software
+ # distributed under the License is distributed on an "AS IS" BASIS,
+ # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ # See the License for the specific language governing permissions and
+ # limitations under the License.
+ -->
+
+<resource-redirections>
+
+## these are the battery icons in the notification bar renamed here for easy renaming later
+    <item name="drawable/stat_sys_battery_100">@drawable/batt100</item>
+    <item name="drawable/stat_sys_battery_95">@drawable/batt95</item>
+    <item name="drawable/stat_sys_battery_90">@drawable/batt90</item>
+    <item name="drawable/stat_sys_battery_85">@drawable/batt85</item>
+    <item name="drawable/stat_sys_battery_80">@drawable/batt80</item>
+    <item name="drawable/stat_sys_battery_75">@drawable/batt75</item>
+    <item name="drawable/stat_sys_battery_70">@drawable/batt70</item>
+    <item name="drawable/stat_sys_battery_65">@drawable/batt65</item>
+    <item name="drawable/stat_sys_battery_60">@drawable/batt60</item>
+    <item name="drawable/stat_sys_battery_55">@drawable/batt55</item>
+    <item name="drawable/stat_sys_battery_50">@drawable/batt50</item>
+    <item name="drawable/stat_sys_battery_45">@drawable/batt45</item>
+    <item name="drawable/stat_sys_battery_40">@drawable/batt40</item>
+    <item name="drawable/stat_sys_battery_35">@drawable/batt35</item>
+    <item name="drawable/stat_sys_battery_30">@drawable/batt30</item>
+    <item name="drawable/stat_sys_battery_25">@drawable/batt25</item>
+    <item name="drawable/stat_sys_battery_20">@drawable/batt20</item>
+    <item name="drawable/stat_sys_battery_15">@drawable/batt15</item>
+    <item name="drawable/stat_sys_battery_10">@drawable/batt10</item>
+    <item name="drawable/stat_sys_battery_5">@drawable/batt5</item>
+    <item name="drawable/stat_sys_battery_0">@drawable/batt0</item>
+    <item name="drawable/stat_sys_battery_charge_anim0">@drawable/charge0</item>
+    <item name="drawable/stat_sys_battery_charge_anim1">@drawable/charge1</item>
+    <item name="drawable/stat_sys_battery_charge_anim2">@drawable/charge2</item>
+    <item name="drawable/stat_sys_battery_charge_anim3">@drawable/charge3</item>
+    <item name="drawable/stat_sys_battery_charge_anim4">@drawable/charge4</item>
+    <item name="drawable/stat_sys_battery_charge_anim5">@drawable/charge5</item>
+    <item name="drawable/stat_sys_battery_unknown">@drawable/battunknown</item>
+
+# various icons in the notifications bar
+    <item name="drawable/stat_sys_adb">@drawable/stat_sys_adb</item>
+    <item name="drawable/stat_sys_data_usb">@drawable/stat_sys_data_usb</item>
+    <item name="drawable/stat_notify_voicemail">@drawable/voicemail</item>
+    <item name="drawable/stat_notify_sync">@drawable/sync1</item>
+
+
+    <item name="drawable/title_bar">@drawable/title_bar/item></item>
+
+##notification widgets
+    
+
+
+
+</resource-redirections>
